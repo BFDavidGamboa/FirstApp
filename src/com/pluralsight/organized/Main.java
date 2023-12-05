@@ -1,3 +1,5 @@
+package com.pluralsight.organized;
+
 import java.io.PrintStream;
 
 // Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
