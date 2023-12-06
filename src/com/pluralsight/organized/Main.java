@@ -1,11 +1,14 @@
 package com.pluralsight.organized;
 
-import java.io.PrintStream;
+import com.pluralsight.organized.conversions.ConvertVal;
+import com.pluralsight.organized.operators.OperatorsPrecedence;
+import com.pluralsight.organized.printer.Printer;
 
-// Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
-// then press Enter. You can now see whitespace characters in your code.
 public class Main {
     public static void main(String[] args) {
-      System.out.println("LAGRANHPTA");
+
+         Printer.printOperator(OperatorsPrecedence.myPrecedences());
+         Printer.printOperator(ConvertVal.result1);
     }
+
 }

@@ -1,0 +1,43 @@
+
+r
+java:S1104"PMake valA a static final constant or non-public and provide accessors if needed.(…¹µÔúÿÿÿÿ8Ğœò…Ä1
+l
+java:S1104"PMake valB a static final constant or non-public and provide accessors if needed.(ü¼¦58Ñœò…Ä1
+r
+java:S1104"PMake valC a static final constant or non-public and provide accessors if needed.(»×­¥şÿÿÿÿ8Ñœò…Ä1
+r
+java:S1104	"PMake valD a static final constant or non-public and provide accessors if needed.(•ñÉùÿÿÿÿ8Ñœò…Ä1
+L
+java:S1444"*Make this "public static valA" field final(…¹µÔúÿÿÿÿ8Ñœò…Ä1
+F
+java:S1444"*Make this "public static valB" field final(ü¼¦58Ñœò…Ä1
+L
+java:S1444"*Make this "public static valC" field final(»×­¥şÿÿÿÿ8Ñœò…Ä1
+L
+java:S1444	"*Make this "public static valD" field final(•ñÉùÿÿÿÿ8íøò…Ä1
+„
+java:S4165"bRemove this useless assignment; "valC" already holds the assigned value along all execution paths.(ĞÑé¡üÿÿÿÿ8îÆŠ†Ä1
+
+java:S4165"bRemove this useless assignment; "valD" already holds the assigned value along all execution paths.(ì¸Í»8îÆŠ†Ä1
+„
+java:S4165"bRemove this useless assignment; "valA" already holds the assigned value along all execution paths.(ºŞµ·úÿÿÿÿ8îÆŠ†Ä1
+
+java:S4165"bRemove this useless assignment; "valB" already holds the assigned value along all execution paths.(–ë¿8îÆŠ†Ä1
+9
+java:S1118"Hide this public constructor.(µã·8–©õ…Ä1
+W
+java:S2209"5Change this instance-reference to a static reference.(ºŞµ·úÿÿÿÿ8Õœò…Ä1
+R
+java:S2209"5Change this instance-reference to a static reference.(–ë¿8Õœò…Ä1
+W
+java:S2209"5Change this instance-reference to a static reference.(ĞÑé¡üÿÿÿÿ8Õœò…Ä1
+R
+java:S2209"5Change this instance-reference to a static reference.(ì¸Í»8ğøò…Ä1
+L
+java:S1656"/Remove or correct this useless self-assignment.(ì¸Í»8ñÆŠ†Ä1
+L
+java:S1656"/Remove or correct this useless self-assignment.(–ë¿8ñÆŠ†Ä1
+Q
+java:S1656"/Remove or correct this useless self-assignment.(ĞÑé¡üÿÿÿÿ8ñÆŠ†Ä1
+Q
+java:S1656"/Remove or correct this useless self-assignment.(ºŞµ·úÿÿÿÿ8ñÆŠ†Ä1
