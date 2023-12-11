@@ -15,14 +15,14 @@ L
 java:S1444"*Make this "public static valC" field final(»×­¥şÿÿÿÿ8Ñœò…Ä1
 L
 java:S1444	"*Make this "public static valD" field final(•ñÉùÿÿÿÿ8íøò…Ä1
+
+java:S4165"bRemove this useless assignment; "valB" already holds the assigned value along all execution paths.(–ë¿8îÆŠ†Ä1
 „
 java:S4165"bRemove this useless assignment; "valC" already holds the assigned value along all execution paths.(ĞÑé¡üÿÿÿÿ8îÆŠ†Ä1
-
-java:S4165"bRemove this useless assignment; "valD" already holds the assigned value along all execution paths.(ì¸Í»8îÆŠ†Ä1
 „
 java:S4165"bRemove this useless assignment; "valA" already holds the assigned value along all execution paths.(ºŞµ·úÿÿÿÿ8îÆŠ†Ä1
 
-java:S4165"bRemove this useless assignment; "valB" already holds the assigned value along all execution paths.(–ë¿8îÆŠ†Ä1
+java:S4165"bRemove this useless assignment; "valD" already holds the assigned value along all execution paths.(ì¸Í»8îÆŠ†Ä1
 9
 java:S1118"Hide this public constructor.(µã·8–©õ…Ä1
 W
